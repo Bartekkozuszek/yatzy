@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
-import {getCategoryScore} from './Scoring';
+import {getCategoryScore} from './Game';
 
 export class Table extends Component {
 	constructor() {

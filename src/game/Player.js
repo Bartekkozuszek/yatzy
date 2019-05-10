@@ -1,4 +1,4 @@
-import {getScoringCategories, getCategoryScore} from './Scoring';
+import {getScoringCategories, getCategoryScore} from './Game';
 
 export class Player {
 	constructor(name, scores = {}) {
